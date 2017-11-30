@@ -37,7 +37,7 @@
   "LockOnPriority": 2,
   "InvisibleCursorForGamepad": true,
   "GamepadDisableInstructionsDisplay": false,
-  "SettingsUnlock_WorldEvil": false,
+  "SettingsUnlock_WorldEvil": true,
   "SettingsEnabled_MinersWobble": true,
   "UseStormEffect": true,
   "UseHeatDistortion": true,
